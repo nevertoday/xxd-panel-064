@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 064
+# 🦁 XXD Panel 064｜独立拼贴页
 
 ### 把照片变成安静、残缺而富有时间感的旧纸拼贴档案
 

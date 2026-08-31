@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 064
+# 🦁 XXD Panel 064｜Indie Collage Page
 
 ### Turn photos into old paper collage files that are quiet, incomplete and full of time
 
