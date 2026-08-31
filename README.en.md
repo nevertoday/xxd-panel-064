@@ -49,15 +49,16 @@ These four works reuse the corresponding independent sources and are regenerated
 <!-- xxd-human-intro:start -->
 ## Where this Panel fits — and what it solves
 
-When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
+When an old photograph, travel record, or private memory needs a sense of time, a ready-made vintage filter often leaves nothing but yellowing and artificial wear. It feels contrived without revealing what deserves to be preserved. A full-page collage, meanwhile, can become a busy scrapbook that loses quietness and distance.
 
-**Panel 064** is suited to work that must retain the source's essential content while pursuing this visual direction: **Turn photos into old paper collage files that are quiet, incomplete and full of time**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
+**Panel 064** breaks the most important identities, relationships, and emotions into a small number of aged-paper fragments, light line drawings, and scraps of text. Torn edges, omissions, slight misalignment, and broad empty space create the feel of a believable private archive; one or two colours from the source are used only to awaken memory.
 
 ### Use it when
 
-- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
-- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
-- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+- **The photograph already carries the character of a memory or archive:** family, travel, people, old belongings, and places need to be quietly reorganised.
+- **You want to express incompleteness without losing recognisability:** remove only the full setting and secondary details, while keeping core identities and relationships readable.
+- **You need a sense of time without a clichéd vintage filter:** natural aged-paper tones, torn edges, light linework, and text fragments are more restrained than heavy yellowing.
+- **You need flexible delivery:** it supports top–bottom and left–right comparisons, design-only artwork, multiple ratios, four-device wallpaper sets, and batch processing of image folders.
 
 ### A simple way to begin
 
@@ -65,7 +66,7 @@ You do not need to review every option first. Send your Agent an image and say:
 
 > Use XXD Panel 064 on this image and recommend the best layout and size first.
 
-Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+Use the samples above to confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
 ## Original prompt · Five languages
