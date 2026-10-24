@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 064｜Indie Collage Page: turns the key subject, pose and relationship of a photo into a quiet, incomplete old-paper collage — torn paper pieces, aged paper textures, faded text fragments, thin hesitant pencil or ink lines and slightly misaligned joins, on a near-white paper ground with faint fibres, in paper tones, light grey, pale brown and old ink with only one or two colours from the photo as small accents, wide poetic whitespace and a few small typewriter words or fragments. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-064 or asks for torn-paper collage, archival scrapbook or typewriter-text collage art from a photo.",
+  "short_description": "独立拼贴页：把照片变成安静、残缺、带打字机小字的旧纸拼贴档案",
+  "zh-CN": {
+    "name": "独立拼贴页",
+    "tagline": "把照片变成一页安静、残缺、带时间感的旧纸拼贴档案。",
+    "look": "照片里的主体和关系被拆成几片手撕旧纸、淡化的文字残片和细细的铅笔或墨线，边缘残缺、拼接略有错位，但一眼仍认得出原物。颜色以纸张本色、浅灰、淡褐和旧墨色为主，只从照片里取一两种颜色用在一条纸带或一个记号上。底子是接近白色、带轻微纸纹的纸面，主体常常偏在一边，周围留大片空白。文字是很小的打字机字，可横可竖，零散地贴在边缘或沿着主体排开。",
+    "traits": ["手撕纸边", "旧纸拼贴", "铅笔墨线", "打字机小字", "档案感", "诗性留白"],
+    "good": [
+      "带记忆感的人物照：老人肖像、家人合影、窗边的背影",
+      "旅行和地点照片：车站、海边小路、一座老房子",
+      "单件旧物或静物：一把旧椅子、一封信、一台相机"
+    ],
+    "poor": [
+      "需要完整还原场景或精确细节的图：产品图、地图、建筑效果图",
+      "热闹、色彩饱满的画面：游乐园、节日人群、霓虹街景",
+      "想要满版手账贴纸、卡通、厚涂上色或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Indie Collage Page",
+    "tagline": "Turns a photo into a quiet, incomplete old-paper collage page that feels like a personal archive.",
+    "look": "The subject and its relationships are broken into a few torn scraps of old paper, faded text fragments and thin pencil or ink lines, with ragged edges and slightly misaligned joins, yet the original is still easy to recognise. The colours are paper tones, light grey, pale brown and old ink, with only one or two colours from the photo on a paper strip or a small mark. The ground is near-white paper with faint fibres, and the subject often sits to one side with wide empty space around it. The text is tiny typewriter type, horizontal or vertical, scattered along edges or following the subject.",
+    "traits": ["Torn paper edges", "Old-paper collage", "Pencil and ink line", "Typewriter text", "Archival feel", "Poetic whitespace"],
+    "good": [
+      "Portraits with a sense of memory: an elderly face, a family photo, someone seen from behind at a window",
+      "Travel and place photos: a station, a path by the sea, an old house",
+      "A single old object or still life: a worn chair, a letter, a camera"
+    ],
+    "poor": [
+      "Images that need the full scene or exact detail: product shots, maps, architectural renders",
+      "Busy, saturated scenes: amusement parks, festival crowds, neon streets",
+      "Requests for a sticker-packed journal page, cartoon, heavy painting or 3D look"
+    ]
+  },
+  "ja": {
+    "name": "インディー・コラージュ頁",
+    "tagline": "写真を、静かで欠けがあり、時間の流れを感じる古紙コラージュの一頁にします。",
+    "look": "写真の主役と関係は、手でちぎった古紙の切れ端、薄れた文字の断片、細い鉛筆やインクの線に分けられます。縁は欠け、継ぎ目は少しずれていますが、元の姿はすぐにわかります。色は紙の地色、薄いグレー、淡い茶、古いインクの色が中心で、写真から取った一、二色を紙テープや小さな印にだけ使います。地はかすかな繊維のあるほぼ白い紙で、主役は片側に寄り、まわりに広い余白が残ります。文字はごく小さなタイプライター書体で、横にも縦にも、縁に散らしたり主役に沿わせたりします。",
+    "traits": ["ちぎった紙の縁", "古紙コラージュ", "鉛筆とインクの線", "タイプライター文字", "アーカイブ感", "詩的な余白"],
+    "good": [
+      "記憶を感じさせる人物写真：お年寄りの肖像、家族写真、窓辺の後ろ姿",
+      "旅や場所の写真：駅、海沿いの小道、古い家",
+      "古い物一つや静物：古い椅子、手紙、カメラ"
+    ],
+    "poor": [
+      "場面の全体や正確な細部が必要な画像：商品写真、地図、建築パース",
+      "にぎやかで色の濃い場面：遊園地、祭りの人混み、ネオン街",
+      "シールで埋め尽くした手帳、漫画、厚塗り、3D の仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "인디 콜라주 페이지",
+    "tagline": "사진을 조용하고 이지러졌으며 시간의 흔적이 느껴지는 옛 종이 콜라주 한 장으로 바꿉니다.",
+    "look": "사진 속 주인공과 관계는 손으로 찢은 옛 종이 조각, 바랜 글자 조각, 가는 연필이나 잉크 선으로 나뉩니다. 가장자리는 떨어져 나가고 이음매는 살짝 어긋나지만 원래 모습은 바로 알아볼 수 있습니다. 색은 종이 본래 색, 연회색, 옅은 갈색, 오래된 먹색이 중심이고, 사진에서 고른 한두 가지 색은 종이 띠나 작은 표시에만 씁니다. 바탕은 옅은 섬유 결이 있는 거의 흰 종이이며, 주인공은 한쪽으로 치우치고 주변에 넓은 여백이 남습니다. 글자는 아주 작은 타자기 서체로, 가로나 세로로 가장자리에 흩어지거나 주인공을 따라 놓입니다.",
+    "traits": ["찢은 종이 가장자리", "옛 종이 콜라주", "연필·잉크 선", "타자기 글씨", "아카이브 느낌", "시적인 여백"],
+    "good": [
+      "기억이 담긴 인물 사진: 노인의 초상, 가족사진, 창가의 뒷모습",
+      "여행과 장소 사진: 기차역, 바닷가 오솔길, 오래된 집",
+      "오래된 물건 하나나 정물: 낡은 의자, 편지, 카메라"
+    ],
+    "poor": [
+      "장면 전체나 정확한 세부가 필요한 이미지: 제품 사진, 지도, 건축 투시도",
+      "북적이고 색이 진한 장면: 놀이공원, 축제 인파, 네온 거리",
+      "스티커로 가득한 다이어리, 만화, 두꺼운 채색, 3D 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "صفحة كولاج مستقلة",
+    "tagline": "يحوّل الصورة إلى صفحة كولاج هادئة ناقصة من ورق قديم، كأنها من أرشيف شخصي.",
+    "look": "يُفكَّك العنصر الرئيسي وعلاقاته إلى قصاصات قليلة من ورق قديم ممزّق باليد، وبقايا نصوص باهتة، وخطوط رفيعة بالقلم الرصاص أو الحبر، بحواف ناقصة ووصلات منزاحة قليلاً، ومع ذلك يبقى الأصل سهل التعرّف. الألوان هي ألوان الورق والرمادي الفاتح والبني الباهت والحبر القديم، مع لون أو لونين فقط من الصورة على شريط ورقي أو علامة صغيرة. الأرضية ورق قريب من الأبيض بألياف خفيفة، وكثيراً ما يقف العنصر في جانب وحوله فراغ واسع. النص صغير جداً بحرف الآلة الكاتبة، أفقياً أو عمودياً، مبعثراً على الحواف أو ممتداً مع العنصر.",
+    "traits": ["حواف ورق ممزّق", "كولاج ورق قديم", "خط رصاص وحبر", "حرف الآلة الكاتبة", "طابع أرشيفي", "فراغ شاعري"],
+    "good": [
+      "صور أشخاص تحمل ذكرى: وجه مسنّ، صورة عائلية، شخص من الخلف عند نافذة",
+      "صور السفر والأماكن: محطة قطار، طريق صغير قرب البحر، بيت قديم",
+      "قطعة قديمة واحدة أو طبيعة صامتة: كرسي بالٍ، رسالة، كاميرا"
+    ],
+    "poor": [
+      "صور تتطلب المشهد كاملاً أو تفاصيل دقيقة: صور المنتجات، الخرائط، التصاميم المعمارية",
+      "مشاهد صاخبة مشبعة الألوان: مدن الملاهي، حشود المهرجانات، شوارع النيون",
+      "طلب صفحة يوميات مكتظة بالملصقات أو رسوم كرتونية أو تلوين كثيف أو مظهر ثلاثي الأبعاد"
+    ]
+  }
+}
